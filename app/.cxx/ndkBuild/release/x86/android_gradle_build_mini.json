@@ -1,0 +1,17 @@
+{
+  "buildFiles": [
+    "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\src\\main\\jni\\Android.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\meseret\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\projects\\sami_card\\mobile_card_mobile_app\\app\\src\\main\\jni\\Android.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-18 NDK_OUT\u003dD:/projects/sami_card/mobile_card_mobile_app/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\projects\\sami_card\\mobile_card_mobile_app\\app\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\meseret\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\projects\\sami_card\\mobile_card_mobile_app\\app\\src\\main\\jni\\Android.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-18 NDK_OUT\u003dD:/projects/sami_card/mobile_card_mobile_app/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\projects\\sami_card\\mobile_card_mobile_app\\app\\build\\intermediates\\ndkBuild\\release\\lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "keys-release-x86": {
+      "artifactName": "keys",
+      "buildCommand": "C:\\Users\\meseret\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\projects\\sami_card\\mobile_card_mobile_app\\app\\src\\main\\jni\\Android.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-18 NDK_OUT\u003dD:/projects/sami_card/mobile_card_mobile_app/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\projects\\sami_card\\mobile_card_mobile_app\\app\\build\\intermediates\\ndkBuild\\release\\lib D:/projects/sami_card/mobile_card_mobile_app/app/build/intermediates/ndkBuild/release/obj/local/x86/libkeys.so",
+      "abi": "x86",
+      "output": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libkeys.so"
+    }
+  }
+}

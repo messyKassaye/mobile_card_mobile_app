@@ -1,0 +1,60 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\projects\\sami_card\\mobile_card_mobile_app",
+      "sdkFolder": "C:\\Users\\meseret\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app",
+      "makeFile": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\src\\main\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "D:\\projects\\sami_card\\mobile_card_mobile_app\\.cxx",
+      "cxxFolder": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\meseret\\AppData\\Local\\Android\\Sdk\\ndk-bundle",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\build\\intermediates\\ndkBuild\\debug\\lib",
+    "objFolder": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
+    "jsonFolder": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\.cxx\\ndkBuild\\debug",
+    "gradleBuildOutputFolder": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 18,
+  "cxxBuildFolder": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\.cxx\\ndkBuild\\debug\\x86",
+  "jsonFile": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\.cxx\\ndkBuild\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86",
+  "buildCommandFile": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\.cxx\\ndkBuild\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\.cxx\\ndkBuild\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\.cxx\\ndkBuild\\debug\\x86\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\.cxx\\ndkBuild\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\projects\\sami_card\\mobile_card_mobile_app\\app\\.cxx\\ndkBuild\\debug\\x86\\compile_commands.json"
+}
